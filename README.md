@@ -1,9 +1,11 @@
 # Parcel plugin for markdown
 
+> This package is forked from [parcel-plugin-markdown](https://github.com/gongpeione/parcel-plugin-markdown)
+
 ## Usage
 
 ```
-yarn add --dev parcel-plugin-markdown
+npm install --save-dev @ycm.jason/parcel-plugin-markdown
 ```
 
 ```javascript

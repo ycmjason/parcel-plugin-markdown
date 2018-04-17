@@ -1,5 +1,5 @@
 const assert = require('assert');
-const mdasset = require('../MarkdownAsset');
+const mdasset = require('../src/MarkdownAsset');
 const path = require('path');
 
 describe('MarkdownAsset', function() {
