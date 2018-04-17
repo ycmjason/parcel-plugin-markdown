@@ -1,5 +1,5 @@
 {
-  "name": "parcel-plugin-markdown",
+  "name": "@ycm.jason/parcel-plugin-markdown",
   "version": "0.2.1",
   "main": "src/index.js",
   "license": "MIT",
